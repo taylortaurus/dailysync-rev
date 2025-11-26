@@ -1,6 +1,8 @@
-# 佳明运动数据同步与采集工具1
+# 佳明运动数据同步与采集工具
 
+## TODO
 
+- [ ] 同步igp
 
 ![workflow](./assets/workflow.png)
 
