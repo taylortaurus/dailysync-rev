@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] 同步igp
+- [ ] 同步igp数据
 
 ![workflow](./assets/workflow.png)
 
